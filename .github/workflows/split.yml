@@ -1,4 +1,4 @@
-name: 拆分
+name: 客户端拆分与构建
 
 on:
   push:
@@ -6,12 +6,14 @@ on:
       - main
     paths:
       - 'local.user.js'
-      - 'tools/**'
+      - 'tools/split.*'
+      - 'tools/scope-check.mjs'
       - '.github/workflows/split.yml'
   pull_request:
     paths:
       - 'local.user.js'
-      - 'tools/**'
+      - 'tools/split.*'
+      - 'tools/scope-check.mjs'
       - '.github/workflows/split.yml'
   workflow_dispatch:
 

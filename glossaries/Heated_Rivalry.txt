@@ -1,6 +1,6 @@
-版本号：1.1.3
+版本号：1.1.4
 维护者：CoffeHolic-330
-更新时间：2026-11-17
+更新时间：2026-11-19
 
 词条
 //人名相关
@@ -102,3 +102,6 @@ Lady Byng：莱迪·宾纪念奖
 Bag Skate：罚滑
 xGF：预期进球数
 Sudden death ：金球制
+Puck bunny：冰球宝贝
+Fenwick：Fenwick值
+Corsi：Corsi值

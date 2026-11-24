@@ -52,7 +52,6 @@ MVP：最有价值球员
 Trade：交易
 Transfer：转会
 Stanley Cup：斯坦利杯
-Center：中锋
 Winger：边锋
 Defenseman：后卫
 Goalie：守门员

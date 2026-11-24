@@ -105,4 +105,4 @@ Puck bunny：冰球宝贝
 puck bunnies：冰球宝贝
 Fenwick：Fenwick值
 Corsi：Corsi值
-Chriping：言语挑衅
+Chirping：言语挑衅

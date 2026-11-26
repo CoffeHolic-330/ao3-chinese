@@ -1,6 +1,6 @@
-版本号：1.1.7
+版本号：1.1.8
 维护者：CoffeHolic-330
-更新时间：2026-11-24
+更新时间：2026-11-26
 
 词条
 //人名相关
@@ -80,7 +80,7 @@ Wrist Shot：腕射
 Shutout：零封
 Captain：队长
 Capitaine：队长
-Assistant Captain：副队长
+Alternate Captain：副队长
 Overtime：加时赛
 Shootout：点球大战
 Dark Horse：黑马
@@ -106,3 +106,4 @@ puck bunnies：冰球宝贝
 Fenwick：Fenwick值
 Corsi：Corsi值
 Chirping：言语挑衅
+Chriped：言语挑衅
